@@ -1,6 +1,6 @@
 # Online-Shopping-System-using-C
 <br>
-## 📌 Features
+📌 Features
 <br>
 - 📋 View available products (sorted by Product ID)
 <br>
@@ -13,3 +13,12 @@
 - 🧠 Dynamic memory allocation using `malloc()` and `free()`
 <br>
 - 🔄 Menu-driven console application
+<br>
+<br>
+⚙️ Technologies Used
+<br>
+- Language: C
+<br>
+- Compiler: GCC (MinGW / MinGW-w64)
+<br>
+- Platform: Windows / Linux
